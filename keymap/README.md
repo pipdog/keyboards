@@ -9,7 +9,7 @@ If stored outside of ```/usr/share/kbd/keymaps/``` full path must be specified i
 
 set keymap for current session:
 ```
-loadkeys dvorak-real-programmer
+sudo loadkeys dvorak-real-programmer
 ```
 
 ## Persistent configuration
