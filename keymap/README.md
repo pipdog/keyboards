@@ -3,7 +3,7 @@ Allows use outside of xserver
 
 Store file in ```/usr/share/kbd/keymaps/i386/dvorak/```
 ```
-sudo cp dvorak-real-programmer /usr/share/kbd/keymaps/i386/dvorak/
+sudo cp dvorak-real-programmer.map /usr/share/kbd/keymaps/i386/dvorak/
 ```
 If stored outside of ```/usr/share/kbd/keymaps/``` full path must be specified in the commands below
 
